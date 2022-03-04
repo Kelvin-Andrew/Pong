@@ -1,0 +1,19 @@
+body
+{
+    background-color: blanchedalmond;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Hubballi', cursive;
+}
+
+.container
+{
+    margin: auto;
+    width: 50%;
+    padding-top: 10vh;
+}
+
